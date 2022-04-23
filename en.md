@@ -37,6 +37,10 @@ April 23, 2022
 CC BY-SA 4.0
 Copyleft
 
+## Mirror
+
+[telegraph](https://telegra.ph/Crying-Out-In-the-Spring-04-23)
+
 ## Thanks
 
 Thanks DeepL and Grammarly for helping my awful vocabulary and grammar.
