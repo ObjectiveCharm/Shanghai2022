@@ -34,7 +34,7 @@ April 23, 2022
 
 ## License
 
-CC BY-SA 2.0
+CC BY-SA 4.0
 Copyleft
 
 ## Thanks
